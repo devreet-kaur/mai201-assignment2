@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+.pytest_cache/
+~$*.docx
+Assignment_2.docx
+Data documentation compiled by Great Expectations.pdf
+Assignment2_StepByStep_Guide.md
+customer_data.xlsx
